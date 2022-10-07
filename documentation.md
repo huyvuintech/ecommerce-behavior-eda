@@ -34,13 +34,13 @@ Considering focused pillars listed earlier, there are some questions to ask befo
 * What are the key time period to improve sales campaign?
 
 	
-#### Conversion rate figures
+#### 1. Conversion rate figures
 <in progress>
 
-#### Key brands/categories
+#### 2. Key brands/categories
 <in progress>
 
-#### Key time period
+#### 3. Key time period
 <in progress>
 
 ### Visualizations
