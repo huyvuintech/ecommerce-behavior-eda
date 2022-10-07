@@ -5,6 +5,7 @@
     + Data cleaning
     + Analysis
     + Visualization
+    + Insights
     + Recommendations
 
 ## Objective
@@ -17,7 +18,7 @@ Some pillars to focus on:
 
 ## Executive Summary
 
-<not yet done>
+<in progress>
 
 ## Execution
 ### Data cleaning
@@ -32,8 +33,22 @@ Considering focused pillars listed earlier, there are some questions to ask befo
 * What are the key brands or categories that received the highest event or have the highest conversion rate?
 * What are the key time period to improve sales campaign?
 
+	
+#### Conversion rate figures
+<in progress>
+
+#### Key brands/categories
+<in progress>
+
+#### Key time period
+<in progress>
 
 ### Visualizations
-Visualizations can be found in [this](https://public.tableau.com/app/profile/quang.huy.vu/viz/E-commerceCustomerBehavior/Topbrands) public Tableau visuals. 
+Visualizations can be found in [this](https://public.tableau.com/app/profile/quang.huy.vu/viz/E-commerceCustomerBehavior/Topbrands) public Tableau workbook. 
 
+### Insights
 
+    
+### Recommendations
+
+	
