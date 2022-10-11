@@ -35,7 +35,20 @@ Considering focused pillars listed earlier, there are some questions to ask befo
 
 	
 #### 1. Conversion rate figures
-<in progress>
+Overall, view to add-to-cart conversion rate recorded high at 57.05% while add-to-cart to purchase conversion rate was low (23.99%), which results in view to purchase conversion rate recorded at 13.69%. 
+![Overall Sales Conversion Rate from Nov-2019 to Jan-2020](https://github.com/huyvuintech/ecommercesample/blob/main/1.%20Overall%20Sales%20Conversion%20Rate.png)
+
+From a time-series lense, Nov 2019 was the peak time where all conversion rate figures climaxed. This makes sense as November have two big online shopping events in America which are Black Friday and Cyber Monday. 
+![Time-series Sales Conversion Rate from Nov-2019 to Jan-2020](https://github.com/huyvuintech/ecommercesample/blob/main/2.%20Time-series%20Sales%20Conversion%20Rate.png)
+
+In November 2019, all conversion rates increased throughout the month as the events came close. Plus, key shopping hours were during 0 am - 2 am and 9 am - 4 pm.
+![November 2019 daily/hourly trends](https://github.com/huyvuintech/ecommercesample/blob/main/3.%20November%20trends.png)
+	
+Meanwhile, in December 2019, Christmas season played a critical part in shopping behaviors. People tend to shop before the gathering season and shopping behaviors decreased throughout the month.
+![December 2019 daily/hourly trends](https://github.com/huyvuintech/ecommercesample/blob/main/3.%20December%20trends.png)
+
+In January 2020, shopping trends focused in the last couple days of the month and peaked from 27 to 28 of the month. Key shopping hours were also 0 am - 2 am and 9 am - 2 pm. 
+![January 2020 daily/hourly trends](https://github.com/huyvuintech/ecommercesample/blob/main/3.%20January%20trends.png)
 
 #### 2. Key brands/categories
 <in progress>
