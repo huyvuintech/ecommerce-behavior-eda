@@ -39,6 +39,30 @@ Overall, view to add-to-cart conversion rate recorded high at 57.05% while add-t
 
 ![Overall Sales Conversion Rate from Nov-2019 to Jan-2020](https://github.com/huyvuintech/ecommercesample/blob/main/1.%20Overall%20Sales%20Conversion%20Rate.png)
 
+#### 2. Key brands/categories
+
+##### In terms of key brands, key brands with highest event count differed from ones with highest conversion rate. 
+![Key brands with highest event count vs. ones with highest conversion rate](https://github.com/huyvuintech/ecommercesample/blob/main/6.%20Brand%20specifics.png)
+
+When we looked further to brands' price range, ones with highest conversion rate had lower price range (<$50) while the other one had various price points (from $1 to $200).
+![Brands price range](https://github.com/huyvuintech/ecommercesample/blob/main/7.%20Top%20brand%20prices%20landscape.png)					
+
+
+From these charts, we acknowledged two groups: 
+* Brands with highest event count had various price points from low to high, which drawed more consideration from customers. However, these products were trendy as traffic were attracted by these brands. 
+* Brands with highest conversion rate had low price points, which were easier for customers to make purchase decisions. These are essentials with high needs and low price, which led to higher conversion rate. 
+
+																											  
+##### In terms of key categories, highest event category was Appliances while highest conversion rate went to Apparel and Stationery. 
+			
+![Key categories](https://github.com/huyvuintech/ecommercesample/blob/main/8.%20Top%20categories%20by%20event%20count%20%26%20conversion%20rate.png)
+
+This chart showed the same trend in customers behavior: 
+* Appliances had a variety of price points from low to high which raised more consideration from buying. 
+* Apparels and Stationery were low-valued with various models/types which were easier to make purchase decisions. 
+ 
+#### 3. Key time period
+	
 From a time-series lense, Nov 2019 was the peak time where all conversion rate figures climaxed. This makes sense as November have two big online shopping events in America which are Black Friday and Cyber Monday. 
 	
 ![Time-series Sales Conversion Rate from Nov-2019 to Jan-2020](https://github.com/huyvuintech/ecommercesample/blob/main/2.%20Time-series%20Sales%20Conversion%20Rate.png)
@@ -54,12 +78,6 @@ Meanwhile, in December 2019, Christmas season played a critical part in shopping
 In January 2020, shopping trends focused in the last couple days of the month and peaked from 27 to 28 of the month. Key shopping hours were also 0 am - 2 am and 9 am - 2 pm. 
 	
 ![January 2020 daily/hourly trends](https://github.com/huyvuintech/ecommercesample/blob/main/5.%20January%20trends.png)
-
-#### 2. Key brands/categories
-<in progress>
-
-#### 3. Key time period
-<in progress>
 
 ### Visualizations
 Visualizations can be found in [this](https://public.tableau.com/app/profile/quang.huy.vu/viz/E-commerceCustomerBehavior/Topbrands) public Tableau workbook. 
