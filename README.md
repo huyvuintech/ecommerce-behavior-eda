@@ -4,9 +4,23 @@ This repository is created to store data analysis on E-commerce sample data avai
 ## About dataset
 
 This dataset is made available by MICHAEL KECHINOV on Kaggle [here](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop). 
+
 This file contains behavior data for 5 months (Oct 2019 – Feb 2020) from a medium cosmetics online store.
+
 Each row in the file represents an event. All events are related to products and users. Each event is like many-to-many relation between products and users.
+
 Data collected by [Open CDP](https://rees46.com/en/open-cdp) project. Feel free to use open source customer data platform.
+
+### Data fields: 
+* ```userid``` represents the user who involved in the event. 
+* ```usersession``` represents an unique id of the event.
+* ```eventtype``` represents the event type: view, add-to-cart, purchase, remove from cart.
+* ```productid``` represents the product id involved in the event. 
+* ```categorycode``` represents the category code involved in the event.
+* ```categoryname``` represents the name of the category code involved in the event. 
+* ```event_time``` represents the datetime of the event.
+* ```price``` represents the price of the product involved in the event. 
+
 
 ## Documentation outline:
 * Executive summary
