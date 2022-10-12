@@ -45,14 +45,14 @@ Overall, view to add-to-cart conversion rate recorded high at 57.05% while add-t
 ![Key brands with highest event count vs. ones with highest conversion rate](https://github.com/huyvuintech/ecommercesample/blob/main/6.%20Brand%20specifics.png)
 
 When we looked further to brands' price range, ones with highest conversion rate had lower price range (<$50) while the other one had various price points (from $1 to $200).
+
 ![Brands price range](https://github.com/huyvuintech/ecommercesample/blob/main/7.%20Top%20brand%20prices%20landscape.png)					
 
 
 From these charts, we acknowledged two groups: 
 * Brands with highest event count had various price points from low to high, which drawed more consideration from customers. However, these products were trendy as traffic were attracted by these brands. 
 * Brands with highest conversion rate had low price points, which were easier for customers to make purchase decisions. These are essentials with high needs and low price, which led to higher conversion rate. 
-
-																											  
+																					  
 ##### In terms of key categories, highest event category was Appliances while highest conversion rate went to Apparel and Stationery. 
 			
 ![Key categories](https://github.com/huyvuintech/ecommercesample/blob/main/8.%20Top%20categories%20by%20event%20count%20%26%20conversion%20rate.png)
@@ -83,8 +83,14 @@ In January 2020, shopping trends focused in the last couple days of the month an
 Visualizations can be found in [this](https://public.tableau.com/app/profile/quang.huy.vu/viz/E-commerceCustomerBehavior/Topbrands) public Tableau workbook. 
 
 ### Insights
-
+* Conversion rate from view to purchase seemed high, yet cart to purchase was low, especially for products with high values. Since the platform is getting lots of attention from customers, if we can increase conversion rate from cart to purchase, we can yield more sales and increase platform profits. 
+* Products with high value draw lots of traffic from customers, yet these products have lower conversion rate due to its high price.
+* Products with low value yield exceptional conversion rate from cart to purchase. 
+* Key shopping time focuses on the last 5 days of the month, and customers love staying up late (0 am - 2 am) to get the deals they want. They save products to cart and make purchase later on in the day (10 am - 2 pm / 4 pm). 
     
 ### Recommendations
-
+* Shopping campaigns focus on the couple last days of the month, where promotional hours and deals can be focused during 0 am - 2 am to push conversion rate in this timeframe. Higher discounts with more inventory in this key hour is key to motivate customers to make the purchase while they are still available. 
+	- With high-value products/brands/categories, higher discounts or other promotional tactics can be used to encourage the conversion rate from cart to purchase. 
+	- With low-value products/brands/categories, since the demand is there, the increase in more exposure can be focused throughout the day and more inventory with exclusive shipping fee incentives can be used in key shopping hours to draw more traffic and purchases.
+* Further analyses on customers behavior for high-value brands/categories are needed to assess the key tactics for promotions. 
 	
