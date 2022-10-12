@@ -1,5 +1,6 @@
 ## Outline
-* Objective:
+* Objectives
+* Business Objectives
 * Executive Summary
 * Execution
     + Data cleaning
@@ -15,6 +16,10 @@ Some pillars to focus on:
 * Key metrics
 * Key brands/categories
 * Key time of traffic
+
+## Business objectives
+* Define trends in customer behavior on e-commerce, regarding key shopping hours, key brands/categories and price ranges. 
+* Define sales leverage utilizing these trends. 
 
 ## Executive Summary
 
