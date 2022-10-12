@@ -1,6 +1,13 @@
 # E-commerce customer behavior exploratory data analysis
 This repository is created to store data analysis on E-commerce sample data available on Kaggle
 
+## About dataset
+
+This dataset is made available by MICHAEL KECHINOV on Kaggle [here](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop). 
+This file contains behavior data for 5 months (Oct 2019 – Feb 2020) from a medium cosmetics online store.
+Each row in the file represents an event. All events are related to products and users. Each event is like many-to-many relation between products and users.
+Data collected by [Open CDP](https://rees46.com/en/open-cdp) project. Feel free to use open source customer data platform.
+
 ## Documentation outline:
 * Executive summary
 * Objectives
